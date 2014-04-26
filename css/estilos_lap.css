@@ -1,0 +1,56 @@
+body {
+	font-size: 18px;
+}
+#titulo {
+	display: inline-block;
+	width: 30%;
+	vertical-align: top;
+}
+nav {
+	display: inline-block;
+	width: 60%;
+}
+
+nav ul li {
+	display: inline-block;
+	width: 22%;
+}
+
+/*seccion de bienvenida*/
+#bienvenida {
+	font-size: 3em;
+	background-image: url("../imagenes/portadas/portada4.jpg");
+	line-height: 650px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+.frase {
+	display: inline-block;
+	/*width: 300px; */
+	width: 25%;
+}
+
+/*testimonios*/
+#testimonio-gato{
+	display: inline-block;
+	width: 35%;
+	vertical-align: top;
+}
+
+#testimonio-video{
+	display: inline-block;
+	width: 55%;
+}
+#suscribir {
+	display: inline-block;
+	width: 50%;
+}
+#siguenos {
+	display: inline-block;
+	width: 40%;
+	vertical-align: top;
+}
+
+

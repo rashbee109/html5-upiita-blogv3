@@ -1,0 +1,40 @@
+body {
+	font-size: 14px;
+}
+nav ul li{
+	list-style-type:none;
+	border-style: solid;
+	border-color: white;
+	border-width: 1px;
+	text-transform:uppercase;
+	line-height: 1.5em;
+}
+
+#titulo{
+	text-align: center;
+	margin-right: 0px;
+}
+
+header{
+	padding: 0px;
+}
+
+nav ul{
+	padding-left: 0px;
+}
+/*seccion de bienvenida*/
+#bienvenida{
+	background-color: rgb(52,52,52);
+	font-size: 1.3em;
+	padding: 0.5em;
+}
+
+#frases{
+	border-style: solid;
+	border-color: rgb(52,52,52);
+	border-width: 3px;
+	padding: 1em;
+}
+footer{
+	text-align: center;
+}
